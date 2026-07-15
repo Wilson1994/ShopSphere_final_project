@@ -59,8 +59,8 @@ WHERE total_spent > (SELECT AVG(total_spent) FROM customer_totals);
 SELECT
     channel,
     SUM(budget) AS total_budget,
-    SUM(attributed_revenue) AS total_attributed_revenue,
-    1.0 * SUM(attributed_revenue) / SUM(budget) AS roi
+    SUM(attributed_reven) AS total_attributed_revenue,
+    1.0 * SUM(attributed_reven) / SUM(budget) AS roi
 FROM shopsphere_marketing
 GROUP BY channel
 ORDER BY roi DESC;
