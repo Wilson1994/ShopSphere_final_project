@@ -102,3 +102,12 @@ SELECT
     1.0 * SUM(is_returned) / COUNT(*) AS return_rate
 FROM shopsphere_orders
 GROUP BY free_shipping;
+
+3.0
+
+SELECT
+    SUM(net_amount) AS total_revenue,
+    COUNT(*) AS num_orders,
+    AVG(net_amount) AS avg_order_value,
+    1.0 * SUM(is_returned) / COUNT(*) AS return_rate
+FROM shopsphere_orders;
