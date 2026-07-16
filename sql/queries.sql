@@ -87,7 +87,18 @@ WITH customer_totals AS (
 SELECT
     customer_id,
     total_spent,
+    ROW_NUMBER() OVER (ORDER BY total_spent DESC) * 100.0 / COUNT(*) OVER () AS rank_pct,
     SUM(total_spent) OVER (ORDER BY total_spent DESC) * 1.0
         / (SELECT SUM(total_spent) FROM customer_totals) AS cumulative_share
 FROM customer_totals
 ORDER BY total_spent DESC;
+
+2.6
+
+SELECT
+    free_shipping,
+    COUNT(*) AS num_orders,
+    AVG(net_amount) AS avg_order_value,
+    1.0 * SUM(is_returned) / COUNT(*) AS return_rate
+FROM shopsphere_orders
+GROUP BY free_shipping;
