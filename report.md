@@ -1,5 +1,5 @@
 
-Block 3
+## Block 3
 
 Frage 1.
 Beschreiben Sie die Logik des Aufbaus: Welche Geschichte erzählt das Dashboard von oben nach
@@ -20,18 +20,21 @@ Welche 3 Erkenntnisse soll der Betrachter innerhalb der ersten 30 Sekunden erfas
 2. Electronics ist die umsatzstärkste Kategorie, aber nicht die profitabelste; die eigentliche Profitabilität verbirgt sich in Nischenkategorien wie Beauty.
 3. North America ist die am schnellsten wachsende Region und genau dort sollte man bei der Expansionsplanung ansetzen, während die Top-5%-Kunden bereits heute ein Drittel des Umsatzes erzielen — ihre Bindung ist entscheidend.
 
-#### Питання 3. Який канал приносить найбільше грошей на кожен вкладений долар (ROI)? Куди зараз іде найбільша частина бюджету — і чи це розумно?
+## Block 4
 
-Найкращий ROI — у **Organic** (8.02x) та **Email** (6.50x). Найгірший — у **Paid Search** (1.33x, ледь окупається) та **Social Ads** (2.06x).
+#### Frage 3. Welcher Kanal bringt den höchsten Ertrag pro investiertem Dollar (ROI)? Wohin fließt aktuell der größte Teil des Budgets — und ist das sinnvoll?
 
-| Канал | Бюджет | Виручка | ROI | Частка бюджету |
+Den besten ROI erzielen **Organic** (8,02x) und **Email** (6,50x). Am schlechtesten schneiden **Paid Search** (1,33x, rentiert sich kaum) und **Social Ads** (2,06x) ab.
+
+| Kanal | Budget | Umsatz | ROI | Budgetanteil |
 |---|---|---|---|---|
-| Organic | $20,364 | $163,398 | 8.02x | 2.1% |
-| Email | $37,468 | $243,610 | 6.50x | 3.8% |
-| Influencer | $112,337 | $519,453 | 4.62x | 11.4% |
-| Referral | $73,766 | $263,536 | 3.57x | 7.5% |
-| Social Ads | $286,488 | $589,544 | 2.06x | 29.2% |
-| Paid Search | $450,959 | $598,703 | 1.33x | 46.0% |
+| Organic | $20.364 | $163.398 | 8,02x | 2,1% |
+| Email | $37.468 | $243.610 | 6,50x | 3,8% |
+| Influencer | $112.337 | $519.453 | 4,62x | 11,4% |
+| Referral | $73.766 | $263.536 | 3,57x | 7,5% |
+| Social Ads | $286.488 | $589.544 | 2,06x | 29,2% |
+| Paid Search | $450.959 | $598.703 | 1,33x | 46,0% |
 
-Бюджет розподілений майже обернено пропорційно ефективності: **Paid Search забирає 46% усього бюджету**, а **Social Ads — ще 29%**. Разом це 75% бюджету йде у два найменш ефективні канали. Organic і Email, з найкращим ROI, отримують разом лише 5.9% бюджету. Це нерозумний розподіл.
+Das Budget ist nahezu umgekehrt proportional zur Effizienz verteilt: Paid Search erhält 46 % des gesamten Budgets**, **Social Ads weitere 29 %. Zusammen fließen 75 % des Budgets in die zwei am wenigsten effizienten Kanäle. Organic und Email, mit dem besten ROI, erhalten zusammen nur 5,9 % des Budgets. Das ist eine unsinnige Verteilung.
+
 
