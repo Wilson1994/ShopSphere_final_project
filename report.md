@@ -50,6 +50,67 @@ Das Budget ist nahezu umgekehrt proportional zur Effizienz verteilt: Paid Search
 
 Die Schlussfolgerungen weichen teilweise voneinander ab: Influencer hat den besten LTV ($1.985), obwohl der Kanal beim Kampagnen-ROI nur den 3. Platz belegt (4,62x). Organic ist in beiden Dimensionen gut, aber nicht LTV-Spitzenreiter. Beide Kennzahlen stimmen jedoch im wichtigsten Punkt überein — Paid Search ist sowohl beim ROI als auch beim LTV am schlechtesten. Das bestätigt die Schlussfolgerung, dass Paid Search reduziert werden sollte.
 
+#### Frage 5. Ihre Empfehlung: Wie sollte das Budget umverteilt werden? Begründen Sie dies mit Zahlen. Welche Risiken birgt Ihre Empfehlung?
 
+**Empfehlung:** Das Paid-Search-Budget mindestens halbieren (von $451K auf ca. $225K) und die freigewordenen Mittel in Influencer sowie Organic/Email umleiten — Kanäle mit besserem LTV bzw. ROI.
 
+**Risiken:**
+- Paid Search sorgt für das größte Volumen an Neukundengewinnung (665 Kunden, mehr als jeder andere Kanal) — eine drastische Kürzung könnte das Wachstum der Kundenbasis kurzfristig verlangsamen.
+- Organic lässt sich nicht direkt mit Geld skalieren — das Wachstum dort ist begrenzt.
+- Influencer-Marketing ist weniger vorhersehbar und schwerer in Qualität/Reichweite zu kontrollieren, wenn das Budget erhöht wird.
 
+#### Frage 6. Vergleichen Sie die Kategorien anhand von drei Dimensionen: Umsatz, Marge, Retourenanteil. Welche Kategorie erzeugt eine „Illusion von Volumen“ — hoher Umsatz, aber geringe tatsächliche Profitabilität?
+
+| Kategorie | Umsatz | Marge | Retourenquote |
+|---|---|---|---|
+| Electronics | $2.097.901 | 12% | 16,0% |
+| Home & Kitchen | $576.135 | 35% | 10,3% |
+| Sports | $343.115 | 30% | 8,4% |
+| Clothing | $248.601 | 45% | 16,0% |
+| Beauty | $168.624 | 55% | 10,0% |
+| Toys | $140.506 | 40% | 9,0% |
+| Books | $90.758 | 25% | 8,1% |
+
+**Electronics** ist die klassische «Illusion des Volumens»: liefert 60 % des gesamten Unternehmensumsatzes, aber mit der niedrigsten Marge (12 %) und einer der höchsten Retourenquoten (16 %). Der tatsächliche Gewinn aus dieser Kategorie ist deutlich bescheidener als ihr sichtbares Ausmaß.
+
+#### Frage 7. Gibt es einen „versteckten Diamanten“ — eine Kategorie mit geringem Umsatz, aber ausgezeichneter Marge und niedrigem Retourenanteil? Was würden Sie damit empfehlen zu tun?
+
+Ja — **Beauty**. Der kleinste Umsatz (nur $168.624, 4,9 % vom Gesamtumsatz), aber die beste Marge am Markt (55 %) und eine niedrige Retourenquote (10 %). Empfehlung: Marketinginvestitionen gezielt in diese Kategorie erhöhen, das Sortiment erweitern — das Potenzial für Margenwachstum ist hier höher als in jeder anderen Kategorie.
+
+#### Frage 8. Vergleichen Sie Kunden, die überwiegend mit Rabatt kaufen (durchschnittlicher Rabatt > 20 %), mit den übrigen Kunden hinsichtlich der Bestellanzahl. „Binden“ sich Kunden, die wegen Rabatten gekommen sind, oder kaufen sie einmal und verschwinden?
+
+| Kundengruppe | Anzahl Kunden | Ø Bestellungen |
+|---|---|---|
+| Hoher Rabatt (>20 %) | 352 | 2,17 |
+| Niedriger Rabatt / kein Rabatt | 2.648 | 4,35 |
+
+Kunden mit einem hohen durchschnittlichen Rabatt tätigen im Schnitt **2,17 Bestellungen**, während Kunden ohne große Rabatte im Schnitt **4,35 Bestellungen** tätigen — doppelt so viele. Das bedeutet, dass durch Rabatte gewonnene Kunden **keine Markenbindung** entwickeln — sie kaufen eher ein- bis zweimal und verschwinden dann, während reguläre Kunden deutlich häufiger zurückkehren. Rabatte schaffen keine Loyalität.
+
+#### Frage 9. Berechnen Sie, welchen Umsatzanteil die Top-5-%-Kunden erwirtschaften. Wer sind diese Personen (Region, Akquisitionskanal)? Wie kann das Unternehmen sie halten?
+
+ie Top-5%-Kunden (150 Personen) erzielen **35,1 %** des gesamten Umsatzes.
+
+**Nach Region:**
+
+| Region | Anteil unter Top-5% |
+|---|---|
+| Europe | 28,0% |
+| North America | 28,0% |
+| Southeast Asia | 25,3% |
+| Latin America | 10,0% |
+| Middle East | 8,7% |
+
+**Nach Akquisitionskanal:**
+
+| Kanal | Anteil unter Top-5% |
+|---|---|
+| Influencer | 24,0% |
+| Organic | 22,7% |
+| Referral | 14,7% |
+| Social Ads | 14,7% |
+| Paid Search | 12,7% |
+| Email | 11,3% |
+
+Am häufigsten handelt es sich um Kunden, die über Influencer und Organic gewonnen wurden — was sich logisch mit den Erkenntnissen aus Fall A deckt (dieselben Kanäle liefern den besten LTV).
+
+Wie man sie hält: personalisierte Angebote (keine pauschalen Rabatte — siehe Frage 8, Rabatte fördern keine Bindung), bevorzugter Support, ein Treueprogramm mit exklusiven Vorteilen, sowie eine Stärkung genau jener Akquisitionskanäle (Influencer, Organic), die sich bereits als fähig erwiesen haben, solche Kunden zu gewinnen.
