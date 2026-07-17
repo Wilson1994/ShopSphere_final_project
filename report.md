@@ -37,4 +37,19 @@ Den besten ROI erzielen **Organic** (8,02x) und **Email** (6,50x). Am schlechtes
 
 Das Budget ist nahezu umgekehrt proportional zur Effizienz verteilt: Paid Search erhält 46 % des gesamten Budgets**, **Social Ads weitere 29 %. Zusammen fließen 75 % des Budgets in die zwei am wenigsten effizienten Kanäle. Organic und Email, mit dem besten ROI, erhalten zusammen nur 5,9 % des Budgets. Das ist eine unsinnige Verteilung.
 
+#### Frage 4. Vergleichen Sie die Kanäle nicht nur nach dem Kampagnen-ROI, sondern auch nach dem langfristigen Kundenwert (LTV): Berechnen Sie die durchschnittlichen Kundenausgaben in Abhängigkeit vom acquisition_channel. Stimmen die Schlussfolgerungen mit dem Kampagnen-ROI überein?
+
+| Akquisitionskanal | Anzahl Kunden | Durchschnittlicher LTV |
+|---|---|---|
+| Influencer | 357 | $1.985,73 |
+| Referral | 266 | $1.791,82 |
+| Organic | 721 | $1.316,13 |
+| Email | 372 | $1.074,46 |
+| Social Ads | 619 | $822,09 |
+| Paid Search | 665 | $648,10 |
+
+Die Schlussfolgerungen weichen teilweise voneinander ab: Influencer hat den besten LTV ($1.985), obwohl der Kanal beim Kampagnen-ROI nur den 3. Platz belegt (4,62x). Organic ist in beiden Dimensionen gut, aber nicht LTV-Spitzenreiter. Beide Kennzahlen stimmen jedoch im wichtigsten Punkt überein — Paid Search ist sowohl beim ROI als auch beim LTV am schlechtesten. Das bestätigt die Schlussfolgerung, dass Paid Search reduziert werden sollte.
+
+
+
 
