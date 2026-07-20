@@ -16,7 +16,7 @@ Regionen im Zeitverlauf. North America wächst am schnellsten — von $80K auf $
 Die Top-5%-Kunden erzielen 35 % des gesamten Umsatzes — eine deutliche, aber keine extreme Konzentration. Das Geschäft ist nicht kritisch von einer engen Gruppe von VIP-Kunden abhängig, ihre Bindung bleibt aber trotzdem wichtig.
 
 ##### 2.6. (Kreativ). Wählen Sie einen noch nicht untersuchten Datenausschnitt und erstellen Sie eine Visualisierung nach eigenem Ermessen. Überraschen Sie uns mit einem Insight.
-Kostenloser Versand. Bestellungen mit kostenlosem Versand sind 12-mal größer ($344 vs. $28) — das bedeutet aber nicht, dass der Versand zu höheren Ausgaben motiviert. Wahrscheinlicher ist, dass er automatisch ab einem bestimmten Bestellwert aktiviert wird — also eine Folge der großen Bestellung ist, nicht deren Ursache. Ein klassisches Beispiel für die Verwechslung von Korrelation und Kausalität.## Block 2. Visualisierungen — Textuelle Erkenntnisse
+Kostenloser Versand. Bestellungen mit kostenlosem Versand sind 12-mal größer ($344 vs. $28) — das bedeutet aber nicht, dass der Versand zu höheren Ausgaben motiviert. Wahrscheinlicher ist, dass er automatisch ab einem bestimmten Bestellwert aktiviert wird — also eine Folge der großen Bestellung ist, nicht deren Ursache. Ein klassisches Beispiel für die Verwechslung von Korrelation und Kausalität.
 
 ## Block 3
 
