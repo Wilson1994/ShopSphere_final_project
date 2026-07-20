@@ -1,3 +1,22 @@
+## Block 2. Visualisierungen — Textuelle Erkenntnisse
+
+#### 2.1. Saisonalität. Liniendiagramm des Gesamtumsatzes nach Monaten über den gesamten Zeitraum. Gibt es saisonale Spitzen? Wann verdient das Unternehmen am meisten?
+Es gibt keine ausgeprägten saisonalen Spitzen — der Umsatz wächst über den gesamten Zeitraum 2022–2024 stabil von Monat zu Monat, mit einer deutlichen Beschleunigung zum Ende 2024. Das Unternehmen verdient aktuell am meisten, aber das ist allgemeines Geschäftswachstum, keine Saisonalität.
+
+#### 2.2. Marketing: Budget vs. Effizienz. Vergleichen Sie die Kanäle nach Budget und ROI. Tipp: Eine Dual-Axis- oder Scatter-Darstellung zeigt gut, ob das Budget sinnvoll verteilt ist.
+Marketing: Budget vs. Effizienz. Der größte Teil des Budgets fließt in Paid Search ($451K), aber dieser Kanal hat den niedrigsten ROI (1,33x) — rentiert sich kaum. Organic (8,0x) und Email (6,5x) liefern die beste Rendite, erhalten aber nur ein kleines Budget. Das Geld ist unsinnig verteilt.
+
+##### 2.3. Kategorien: Volumen vs. Profitabilität. Scatter- oder Bubble-Chart: Umsatz auf der X-Achse, Marge auf der Y-Achse, Punktgröße = Retourenanteil. Welche Kategorien sind „versteckte Diamanten“?
+Kategorien: Volumen vs. Rentabilität. Electronics hat den größten Umsatz ($2,1 Mio.), aber die Marge liegt nur bei 12 % bei erhöhten Retouren (16 %) — die klassische "Illusion des Volumens". Beauty hat einen bescheidenen Umsatz ($168K), aber die beste Marge am Markt (55 %) und niedrige Retouren — ein "verstecktes Juwel", das man weiterentwickeln sollte.
+
+#### 2.4. Regionen im Zeitverlauf. Multi-Line-Diagramm des Umsatzes nach Regionen über die Jahre. Welche Region wächst am schnellsten, welche stagniert?
+Regionen im Zeitverlauf. North America wächst am schnellsten — von $80K auf $718K in 2 Jahren (fast 9x), und überholt bis 2024 sogar Europe. Middle East und Latin America sind die kleinsten Regionen und wachsen deutlich langsamer als der Rest.
+
+##### 2.5. Kundenbeitrag (Pareto). Visualisieren Sie, welchen Umsatzanteil die Top-Kunden erwirtschaften. Tipp: kumulatives Diagramm oder einfacher Vergleich „Top 5 % vs. Rest“. Kundenbeitrag (Pareto). 
+Die Top-5%-Kunden erzielen 35 % des gesamten Umsatzes — eine deutliche, aber keine extreme Konzentration. Das Geschäft ist nicht kritisch von einer engen Gruppe von VIP-Kunden abhängig, ihre Bindung bleibt aber trotzdem wichtig.
+
+##### 2.6. (Kreativ). Wählen Sie einen noch nicht untersuchten Datenausschnitt und erstellen Sie eine Visualisierung nach eigenem Ermessen. Überraschen Sie uns mit einem Insight.
+Kostenloser Versand. Bestellungen mit kostenlosem Versand sind 12-mal größer ($344 vs. $28) — das bedeutet aber nicht, dass der Versand zu höheren Ausgaben motiviert. Wahrscheinlicher ist, dass er automatisch ab einem bestimmten Bestellwert aktiviert wird — also eine Folge der großen Bestellung ist, nicht deren Ursache. Ein klassisches Beispiel für die Verwechslung von Korrelation und Kausalität.## Block 2. Visualisierungen — Textuelle Erkenntnisse
 
 ## Block 3
 
