@@ -158,7 +158,7 @@ B-wiederkehrend. Was stellen Sie fest?**
 | A — Bestand | 2.923 | $282,65 | — |
 | B — Bestand | 2.930 | $273,51 | **−3,2 %** (p=0,32, nicht signifikant) |
 
-Hier wird es spannend. Teilt man die Gruppen in neue Kunden (gerade erst registriert und fast sofort gekauft) und Bestandskunden auf, ändert sich das Bild komplett:
+Teilt man die Gruppen in neue Kunden (gerade erst registriert und fast sofort gekauft) und Bestandskunden auf, ändert sich das Bild komplett:
 
 - Bei neuen Kunden funktioniert B hervorragend — der Ø Bestellwert springt von $278 auf $341, das sind +23 %, und das ist kein Rauschen (p=0,003, sehr belastbar).
 - Bei Bestandskunden sinkt B dagegen leicht — von $283 auf $274, minus 3 %. Der Unterschied ist klein und statistisch nicht belegt, aber definitiv nicht zugunsten von B.
