@@ -139,7 +139,7 @@ Wie man sie hält: personalisierte Angebote (keine pauschalen Rabatte — siehe 
 **Frage 10. Vergleichen Sie den durchschnittlichen Bestellwert (net_amount) zwischen den Gruppen A und B über
 alle Bestellungen des Experiments hinweg. Ist Version B auf den ersten Blick besser?**
 
-| Variante | Anzahl Bestellungen | Ø Bestellwert |
+| Variante | Anzahl Bestellungen | Bestellwert |
 |---|---|---|
 | A | 3.681 | $281,73 |
 | B | 3.674 | $287,27 |
