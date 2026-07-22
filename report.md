@@ -133,3 +133,50 @@ ie Top-5%-Kunden (150 Personen) erzielen **35,1 %** des gesamten Umsatzes.
 Am häufigsten handelt es sich um Kunden, die über Influencer und Organic gewonnen wurden — was sich logisch mit den Erkenntnissen aus Fall A deckt (dieselben Kanäle liefern den besten LTV).
 
 Wie man sie hält: personalisierte Angebote (keine pauschalen Rabatte — siehe Frage 8, Rabatte fördern keine Bindung), bevorzugter Support, ein Treueprogramm mit exklusiven Vorteilen, sowie eine Stärkung genau jener Akquisitionskanäle (Influencer, Organic), die sich bereits als fähig erwiesen haben, solche Kunden zu gewinnen.
+
+## Block 5
+
+**Frage 10. Vergleichen Sie den durchschnittlichen Bestellwert (net_amount) zwischen den Gruppen A und B über
+alle Bestellungen des Experiments hinweg. Ist Version B auf den ersten Blick besser?**
+
+| Variante | Anzahl Bestellungen | Ø Bestellwert |
+|---|---|---|
+| A | 3.681 | $281,73 |
+| B | 3.674 | $287,27 |
+
+Auf dem Papier sieht B etwas besser aus: $287 gegenüber $281, ein Unterschied von etwa 2 %. Prüft man das aber statistisch (t-Test), zeigt sich: p-Wert = 0,51 — und das ist sehr viel. Anders gesagt: Wären A und B völlig identisch, würden wir in der Hälfte aller Fälle rein zufällig genau so einen Unterschied bekommen. Diesen +2 % sollte man also nicht trauen — das ist höchstwahrscheinlich nur Rauschen, kein echter Effekt der neuen Version.
+
+**Frage 11. Gehen Sie nun tiefer. Teilen Sie jede Gruppe in NEUE Kunden (erste Bestellung innerhalb von ca. 60
+Tagen nach der Registrierung) und WIEDERKEHRENDE Kunden auf. Vergleichen Sie den
+durchschnittlichen Bestellwert in den vier Untergruppen: A-neu, B-neu, A-wiederkehrend,
+B-wiederkehrend. Was stellen Sie fest?**
+
+| Gruppe | Anzahl Bestellungen | Ø Bestellwert | Unterschied B vs. A |
+|---|---|---|---|
+| A — Neu | 758 | $278,18 | — |
+| B — Neu | 744 | $341,47 | **+22,8 %** (p=0,003) |
+| A — Bestand | 2.923 | $282,65 | — |
+| B — Bestand | 2.930 | $273,51 | **−3,2 %** (p=0,32, nicht signifikant) |
+
+Hier wird es spannend. Teilt man die Gruppen in neue Kunden (gerade erst registriert und fast sofort gekauft) und Bestandskunden auf, ändert sich das Bild komplett:
+
+- Bei neuen Kunden funktioniert B hervorragend — der Ø Bestellwert springt von $278 auf $341, das sind +23 %, und das ist kein Rauschen (p=0,003, sehr belastbar).
+- Bei Bestandskunden sinkt B dagegen leicht — von $283 auf $274, minus 3 %. Der Unterschied ist klein und statistisch nicht belegt, aber definitiv nicht zugunsten von B.
+
+Das bedeutet: Das "generelle Plus von 2 %" von vorhin ist eigentlich ein starker Erfolg bei einer kleinen Gruppe von Neukunden (nur ein Fünftel aller Bestellungen), der ein leichtes Minus bei der großen Masse der Bestandskunden überdeckt.
+
+**Frage 12. Hier verbirgt sich eine wichtige statistische Lektion. Möglicherweise hilft Version B einer Gruppe,
+schadet aber einer anderen — und der Gesamtdurchschnitt verdeckt das. Formulieren Sie: Für wen
+lohnt es sich, Version B einzuführen? Kann man sie für alle aktivieren?**
+
+Nur für neue Kunden — dort ist der Effekt echt und groß. B für alle auszurollen ergibt dagegen keinen Sinn: Bei Bestandskunden wird dadurch nichts besser, teilweise sogar etwas schlechter. Die richtige Entscheidung ist also nicht "für alle einführen" und auch nicht "komplett verwerfen", sondern eine Aufteilung: die neue Checkout-Version für Neukunden, die alte für alle anderen.
+
+**Frage 13. Erinnern Sie sich an die Vorlesung über Datenmanipulation. Wenn das Marketing Version B dem
+Management um jeden Preis „verkaufen“ wollte, welche Zahlen würde es zeigen? Und wenn es sie
+„begraben“ wollte? Wie sollte ein ehrlicher Analyst das Ergebnis darstellen?**
+
+Wollte jemand im Marketing die Version B "verkaufen", würde er entweder die generellen +2 % zeigen (klingt gut), oder — noch wirkungsvoller — nur die Zahl für Neukunden aus dem Kontext reißen: "+23 %!" — ohne den Rest überhaupt zu erwähnen.
+
+Wollte man sie umgekehrt "begraben", würde man nur die Bestandskunden zeigen ("minus 3 %, die Version ist schlechter!") oder sagen, das Gesamtergebnis sei insgesamt nicht signifikant und alles nur Rauschen.
+
+Der ehrliche Weg ist, das gesamte Bild auf einmal zu zeigen: sowohl, dass der Unterschied im Durchschnitt nicht belastbar ist, als auch, dass er tatsächlich funktioniert — aber nur für eine ganz bestimmte Gruppe. Und eine konkrete Empfehlung zu geben statt eines pauschalen "besser/schlechter" — B gezielt für Neukunden einführen, nicht für alle.
