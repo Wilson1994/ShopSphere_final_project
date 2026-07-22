@@ -151,7 +151,7 @@ Tagen nach der Registrierung) und WIEDERKEHRENDE Kunden auf. Vergleichen Sie den
 durchschnittlichen Bestellwert in den vier Untergruppen: A-neu, B-neu, A-wiederkehrend,
 B-wiederkehrend. Was stellen Sie fest?**
 
-| Gruppe | Anzahl Bestellungen | Ø Bestellwert | Unterschied B vs. A |
+| Gruppe | Anzahl Bestellungen | Bestellwert | Unterschied B vs. A |
 |---|---|---|---|
 | A — Neu | 758 | $278,18 | — |
 | B — Neu | 744 | $341,47 | **+22,8 %** (p=0,003) |
@@ -160,7 +160,7 @@ B-wiederkehrend. Was stellen Sie fest?**
 
 Teilt man die Gruppen in neue Kunden (gerade erst registriert und fast sofort gekauft) und Bestandskunden auf, ändert sich das Bild komplett:
 
-- Bei neuen Kunden funktioniert B hervorragend — der Ø Bestellwert springt von $278 auf $341, das sind +23 %, und das ist kein Rauschen (p=0,003, sehr belastbar).
+- Bei neuen Kunden funktioniert B hervorragend — der Bestellwert springt von $278 auf $341, das sind +23 %, und das ist kein Rauschen (p=0,003, sehr belastbar).
 - Bei Bestandskunden sinkt B dagegen leicht — von $283 auf $274, minus 3 %. Der Unterschied ist klein und statistisch nicht belegt, aber definitiv nicht zugunsten von B.
 
 Das bedeutet: Das "generelle Plus von 2 %" von vorhin ist eigentlich ein starker Erfolg bei einer kleinen Gruppe von Neukunden (nur ein Fünftel aller Bestellungen), der ein leichtes Minus bei der großen Masse der Bestandskunden überdeckt.
