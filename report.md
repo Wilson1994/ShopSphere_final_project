@@ -1,7 +1,7 @@
 ## Block 2. Visualisierungen — Textuelle Erkenntnisse
 
 #### 2.1. Saisonalität. Liniendiagramm des Gesamtumsatzes nach Monaten über den gesamten Zeitraum. Gibt es saisonale Spitzen? Wann verdient das Unternehmen am meisten?
-Es gibt keine ausgeprägten saisonalen Spitzen — der Umsatz wächst über den gesamten Zeitraum 2022–2024 stabil von Monat zu Monat, mit einer deutlichen Beschleunigung zum Ende 2024. Das Unternehmen verdient aktuell am meisten, aber das ist allgemeines Geschäftswachstum, keine Saisonalität.
+Der Graph zeigt den Umsatz nach Monaten über den gesamten Zeitraum 2022–2024. Es ist ein klarer saisonaler Effekt erkennbar: Die Spitzen liegen jeweils im Dezember jedes Jahres (72.908 → Dez. 2022, 206.421 → Dez. 2023, 759.390 → Dez. 2024), gefolgt von einem deutlichen Rückgang im Januar. Neben dieser Saisonalität zeigt sich auch ein allgemeiner Wachstumstrend — jede Dezember-Spitze fällt höher aus als die vorherige.
 
 #### 2.2. Marketing: Budget vs. Effizienz. Vergleichen Sie die Kanäle nach Budget und ROI. Tipp: Eine Dual-Axis- oder Scatter-Darstellung zeigt gut, ob das Budget sinnvoll verteilt ist.
 Marketing: Budget vs. Effizienz. Der größte Teil des Budgets fließt in Paid Search ($451K), aber dieser Kanal hat den niedrigsten ROI (1,33x) — rentiert sich kaum. Organic (8,0x) und Email (6,5x) liefern die beste Rendite, erhalten aber nur ein kleines Budget. Das Geld ist unsinnig verteilt.
