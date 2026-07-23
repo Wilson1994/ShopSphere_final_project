@@ -180,3 +180,15 @@ Wollte jemand im Marketing die Version B "verkaufen", würde er entweder die gen
 Wollte man sie umgekehrt "begraben", würde man nur die Bestandskunden zeigen ("minus 3 %, die Version ist schlechter!") oder sagen, das Gesamtergebnis sei insgesamt nicht signifikant und alles nur Rauschen.
 
 Der ehrliche Weg ist, das gesamte Bild auf einmal zu zeigen: sowohl, dass der Unterschied im Durchschnitt nicht belastbar ist, als auch, dass er tatsächlich funktioniert — aber nur für eine ganz bestimmte Gruppe. Und eine konkrete Empfehlung zu geben statt eines pauschalen "besser/schlechter" — B gezielt für Neukunden einführen, nicht für alle.
+
+## Kurzes Fazit: Empfehlungen für den CEO
+
+**1. Marketingbudget überarbeiten: Paid Search zugunsten von Organic, Email und Influencer reduzieren.**
+Paid Search erhält 46 % des gesamten Budgets, liefert jedoch den schlechtesten ROI (1,33x) und den schlechtesten Customer-LTV ($648). Gleichzeitig erhalten Organic (ROI 8,0x) und Influencer (bester LTV — $1.986) zusammen weniger als 14 % des Budgets. Eine Umverteilung würde erhebliche Mittel freisetzen, ohne die Qualität der Kundengewinnung zu beeinträchtigen.
+
+**2. In die Kategorie Beauty investieren und die Strategie für Electronics überdenken.**
+Electronics liefert 60 % des Umsatzes, aber die Marge liegt nur bei 12 % bei erhöhten Retouren (16 %) — das ist eine "Illusion des Volumens". Beauty hingegen ist ein verstecktes Juwel: kleiner Umsatz, aber eine Marge von 55 % und niedrige Retouren. Eine Erweiterung des Sortiments und des Marketings im Bereich Beauty bringt mehr echten Gewinn pro investiertem Dollar als weiteres Wachstum bei Electronics.
+
+**3. Die neue Checkout-Version (B) nur für Neukunden einführen, nicht für alle.**
+Der A/B-Test zeigte eine klassische Durchschnittsfalle: Das Gesamtergebnis (+2 %) ist statistisch nicht signifikant, aber für Neukunden ist der Effekt real und groß (+22,8 %, p=0,003), während er für Bestandskunden neutral bis leicht negativ ausfällt. Ein gezielter statt eines flächendeckenden Rollouts bringt den maximalen Nutzen, ohne die Hauptkundenbasis zu gefährden.
+
